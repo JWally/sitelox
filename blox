@@ -39,3 +39,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 *.yahoo.com
 0.0.0.0 *.bing.com
 0.0.0.0 google.com
+0.0.0.0 scroller.com
+0.0.0.0 i.google.com
